@@ -5,4 +5,4 @@ IDPs, Bacterial Chromsome and bacterial colony growth/dynamics.
 
 For more information please visit https://www.tifrh.res.in/~jmondal/
 
-For job submission policies in HPCs exclusive to the group, please check the following link
+For job submission policies in HPCs exclusive to the group, please check the following link https://github.com/JMLab-tifrh/policies
